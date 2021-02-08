@@ -46,5 +46,4 @@ for(r in 1:10){ #this controls the number of times you want to run the simulatio
 ###NOTE: the sample function right now is binary, but to the extent possible we will substitute those better distributions. For example, probablitly
 #of surviving in transit is set to 0.9, but if we know the tails of that estimate we can make the model function better.
 
-
          
